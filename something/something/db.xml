@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<DB_Table>
+  <transakcja>
+    <Rodzaj_Transakcji>Inwentaryzacja</Rodzaj_Transakcji>
+    <Cena_Zakupu>0</Cena_Zakupu>
+    <Ilość_Sztuk>0</Ilość_Sztuk>
+    <Cena_Ewidencyjna>0</Cena_Ewidencyjna>
+    <Wartość_Transakcji>0</Wartość_Transakcji>
+    <Stan_Magazynowy>0</Stan_Magazynowy>
+  </transakcja>
+  <transakcja>
+    <Rodzaj_Transakcji>Przyjęcie</Rodzaj_Transakcji>
+    <Cena_Zakupu>15.00</Cena_Zakupu>
+    <Ilość_Sztuk>15</Ilość_Sztuk>
+    <Cena_Ewidencyjna>15.00</Cena_Ewidencyjna>
+    <Wartość_Transakcji>225.00</Wartość_Transakcji>
+    <Stan_Magazynowy>15</Stan_Magazynowy>
+  </transakcja>
+  <transakcja>
+    <Rodzaj_Transakcji>Przyjęcie</Rodzaj_Transakcji>
+    <Cena_Zakupu>15.00</Cena_Zakupu>
+    <Ilość_Sztuk>15</Ilość_Sztuk>
+    <Cena_Ewidencyjna>15.00</Cena_Ewidencyjna>
+    <Wartość_Transakcji>225.00</Wartość_Transakcji>
+    <Stan_Magazynowy>30</Stan_Magazynowy>
+  </transakcja>
+  <transakcja>
+    <Rodzaj_Transakcji>Wydanie</Rodzaj_Transakcji>
+    <Ilość_Sztuk>15</Ilość_Sztuk>
+    <Cena_Ewidencyjna>15.00</Cena_Ewidencyjna>
+    <Wartość_Transakcji>104625.000000</Wartość_Transakcji>
+    <Stan_Magazynowy>15</Stan_Magazynowy>
+  </transakcja>
+  <transakcja>
+    <Rodzaj_Transakcji>Przyjęcie</Rodzaj_Transakcji>
+    <Cena_Zakupu>10.00</Cena_Zakupu>
+    <Ilość_Sztuk>2</Ilość_Sztuk>
+    <Cena_Ewidencyjna>10.00</Cena_Ewidencyjna>
+    <Wartość_Transakcji>20.00</Wartość_Transakcji>
+    <Stan_Magazynowy>17</Stan_Magazynowy>
+  </transakcja>
+  <transakcja>
+    <Rodzaj_Transakcji>Wydanie</Rodzaj_Transakcji>
+    <Ilość_Sztuk>1</Ilość_Sztuk>
+    <Cena_Ewidencyjna>14.411764705882352941176470588</Cena_Ewidencyjna>
+  </transakcja>
+</DB_Table>
